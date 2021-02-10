@@ -1,2 +1,5 @@
 node_modules
-/teste
+temp/
+
+tmp/*
+!tmp/.gitkeep
